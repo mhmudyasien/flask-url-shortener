@@ -2,7 +2,7 @@ FROM python:3.10-slim
 
 WORKDIR /app
 
-# Copy requirements first
+# Copy requirements
 COPY requirements.txt .
 
 # Update pip and install dependencies
