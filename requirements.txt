@@ -1,4 +1,4 @@
-Flask==2.3.6
+Flask==2.3.3
 Flask-Session==0.4.1
 redis==5.2.0
 mysql-connector-python==8.1.1
